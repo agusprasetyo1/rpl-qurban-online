@@ -22,4 +22,7 @@ $sequelize db:seed:all
 
 #run the server
 $node server.js
+
+#run with nodemon
+$nodemon server.js
 ```
